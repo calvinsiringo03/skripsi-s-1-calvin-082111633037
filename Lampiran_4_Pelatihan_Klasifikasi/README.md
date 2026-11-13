@@ -21,3 +21,6 @@ Direktori ini memuat kode program pelatihan model klasifikasi tujuh kelas jaring
 | **Layer-wise LR Decay**               |                         1,0                         |                         0,9                         |
 | **Koefisien Konsistensi ($\lambda$)** |                         0,7                         |                         0,7                         |
 | **Capaian Validasi Terbaik**          | **Epoch 7** (`Val F1 = 97,55%`, `Val Acc = 97,32%`) | **Epoch 9** (`Val F1 = 98,13%`, `Val Acc = 97,95%`) |
+
+## Visualisasi Kurva Pelatihan Klasifikasi
+![Gambar_Kurva_Pelatihan_Klasifikasi](./Gambar_Kurva_Pelatihan_Klasifikasi.png)
