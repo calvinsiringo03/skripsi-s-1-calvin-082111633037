@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # 1. Konfigurasi Path Berkas CSV dan Output Gambar
 BASE_DIR = Path(__file__).resolve().parent
 CSV_PATH = BASE_DIR / "raw_checkpoint_audit_summary.csv"
-OUTPUT_IMAGE_PATH = BASE_DIR / "Gambar_4_8_Kurva_InfoNCE_Loss.png"
+OUTPUT_IMAGE_PATH = BASE_DIR / "Gambar_Kurva_InfoNCE_Loss.png"
 
 if not CSV_PATH.exists():
     raise FileNotFoundError(f"Berkas CSV tidak ditemukan di: {CSV_PATH}")
