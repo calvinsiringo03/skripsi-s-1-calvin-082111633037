@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 BASE_DIR = Path(__file__).resolve().parent
 LP_HISTORY_PATH = BASE_DIR / "stage1_lp_history.csv"
 FT_HISTORY_PATH = BASE_DIR / "stage2_ft_history.csv"
-OUTPUT_IMAGE_PATH = BASE_DIR / "Gambar_4_9_Kurva_Pelatihan_Klasifikasi.png"
+OUTPUT_IMAGE_PATH = BASE_DIR / "Gambar_Kurva_Pelatihan_Klasifikasi.png"
 
 df_lp = pd.read_csv(LP_HISTORY_PATH)
 df_ft = pd.read_csv(FT_HISTORY_PATH)
