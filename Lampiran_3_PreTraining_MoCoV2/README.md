@@ -24,4 +24,4 @@ Direktori ini memuat kode program pelatihan mandiri (*self-supervised pre-traini
 | **50** | 628.159 | $1,00 \times 10^{-5}$ | 6,4855 | 0,0056 | 121,76 / 128 |
 
 ## Visualisasi Kurva Konvergensi InfoNCE Loss (Gambar 4.8)
-![Gambar 4.8 Kurva InfoNCE Loss](./Gambar_4_8_Kurva_InfoNCE_Loss.png)
+![Gambar 4.8 Kurva InfoNCE Loss](./Gambar_Kurva_InfoNCE_Loss.png)
